@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="maravilhoso_20">Maravilhoso (20%)</string>
+    <string name="bom_18">Bom (18%)</string>
+    <string name="ok_15">Ok (15%)</string>
+    <string name="arredondar_gorgeta">Arredondar gorgeta?</string>
+    <string name="calcular_gorgeta">Calcular gorgeta</string>
+    <string name="valor_da_gorgeta">Valor da Gorgeta: %s</string>
+</resources>
