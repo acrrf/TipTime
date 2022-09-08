@@ -69,6 +69,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="@string/calcular_gorgeta"
+        android:textStyle="bold|italic"
+        app:backgroundTint="@color/material_dynamic_primary10"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/round_up_switch" />
